@@ -5,6 +5,8 @@ padding: 0;
 .cabeçalho{
     background-color: blue;
     color: crimson;
+    align-content: center;
+    display: inline-block;
     .foto{
         width: 2%;
     }
