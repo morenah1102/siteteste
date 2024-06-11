@@ -4,9 +4,11 @@ padding: 0;
 
 .cabeçalho{
     background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
     color: crimson;
-    align-content: center;
-    display: inline-block;
     .foto{
         width: 2%;
     }
